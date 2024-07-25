@@ -17,6 +17,7 @@
 
       h2 {
           font-size: clamp(2rem, 5vw, 3rem);
+          color: white;
 
           @include tablet-horizontal {
               margin-left: 5%;
