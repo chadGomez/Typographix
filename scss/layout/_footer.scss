@@ -8,6 +8,10 @@ footer {
     font-size: 1.2rem;
     position: relative;
     z-index: 9;
+
+    small {
+      color: white;
+    }
   
     .social-icons {
       margin-top: 10px;
@@ -18,7 +22,7 @@ footer {
         font-size: 1.5rem;
   
         &:hover {
-          color: lighten($secondary-font-color, 20%);
+          color: white;
         }
       }
     }
